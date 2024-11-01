@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'launchy',            '~> 2.0'
   s.add_development_dependency 'rspec',              '~> 3.5.0'
-  s.add_development_dependency 'sinatra',            '~> 1.0'
+  s.add_development_dependency 'sinatra',            '~> 4.0'
   s.add_development_dependency 'rake'
   s.add_development_dependency 'image_size',         '~> 1.0'
   s.add_development_dependency 'pdf-reader',         '~> 1.3', '>= 1.3.3'
